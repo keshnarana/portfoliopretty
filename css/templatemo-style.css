@@ -320,13 +320,13 @@ h2.subtitle {
 }
 @media screen and (max-width: 1200px) {
   .desktop-menu {
-    background: #8a9ba2;
+    background: black;
     padding: 60px 0 30px 0;
   }
 }
 @media screen and (max-width: 992px) {
   .desktop-menu {
-    background: #8a9ba2;
+    background: black;
     padding: 30px 0 30px 0;
   }
 }
@@ -359,7 +359,7 @@ h2.subtitle {
   line-height: 60px;
   text-align: center;
   border: 1px solid white;
-  background: #8a9ba2;
+  background: black;
   font-size: 30px;
 }
 @media screen and (max-width: 992px) {
