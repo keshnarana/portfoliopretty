@@ -156,7 +156,7 @@ a {
   text-decoration: none !important;
 }
 a:hover {
-  color: white;
+  color: black;
 }
 
 h1, h2, h3, h4, h5 {
@@ -215,8 +215,8 @@ h1, h2, h3, h4, h5 {
 span.blue {
   color: #3a8df5;
 }
-span.green {
-  color: #21c639;
+span.pink {
+  color: palevioletred;
 }
 
 input[type="submit"],
