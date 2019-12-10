@@ -345,7 +345,7 @@
                                         <div class="col-md-12">
                                             <fieldset class="input-holder">
                                                 <input name="submit" type="submit" class="btn default" id="submit" value="Send Message">
-                                                <input  type="submit" class="btn default" id="div">
+                                                <label  class="btn default" id="div">
                                             </fieldset>
                                         </div>
                                     </div>
@@ -436,8 +436,7 @@
               $("#name").val(" ");
               $("#email").val(" ");
               $("#message").val(" ");
-              $("#div").show();
-              $("#div").val("Thank-You")
+           alert("message sent")
             });
         
             // Firebase watcher + initial loader HINT: This code behaves similarly to .on("value")
