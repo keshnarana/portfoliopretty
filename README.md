@@ -2,4 +2,8 @@
 
 https://keshnarana.github.io/portfoliopretty/
 
-This is my portfolio.
+This is my portfolio. <br>
+ Technologies used:<br>
+ Jquery<br>
+ Bootstrap<br>
+ Firebase
